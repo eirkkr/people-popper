@@ -1,4 +1,4 @@
-# Number of people.
+"""People Popper."""
 
 # All people.
 people = list(range(1, 101))
@@ -34,3 +34,5 @@ while len(people) > 1:
         person = people[people.index(person) + 1]
 
     print(f" ({len(people)} people still alive)")
+
+print(f"\nPerson {person} is the last one standing!")
