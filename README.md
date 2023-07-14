@@ -1,6 +1,6 @@
 # People Popper
 
-Created to solvew the following puzzle:
+Created to solve the following puzzle:
 
 > One hundred people are standing in a circle in order from 1 to 100.
 > 
