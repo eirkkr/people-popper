@@ -1,7 +1,8 @@
 """People Popper."""
+import sys
 
 # All people.
-people = list(range(1, 101))
+people = list(range(1, int(sys.argv[1])+1))
 
 # Start from person 1.
 person = 1
